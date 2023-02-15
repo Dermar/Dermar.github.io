@@ -7,7 +7,7 @@ const Navbar = () => {
       <img src="../my face.jpg" alt="Marian Derias"/>
       <div className="buttonBar">
         <NavButton name="Home"/>
-        <div className="navButton"><a href="../md-logo.png" download><button>Download my Resumé</button></a></div>
+        <div className="navButton"><a href="../Marian Derias Resume.pdf" download><button>Download my Resumé</button></a></div>
       </div>
     </nav>
     
